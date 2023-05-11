@@ -9,7 +9,7 @@
 # Tinkercad program 2
 
 ![EXP 2](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp2.png)
-[thinkercad](https://www.tinkercad.com/things/iio3GSZ0liH-smashing-bigery/editel)
+[thinker cad experiment 2](https://www.tinkercad.com/things/iio3GSZ0liH-smashing-bigery/editel)
 
 # Day-3
 # Tinkercad program 3
