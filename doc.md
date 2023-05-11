@@ -1,7 +1,7 @@
 # 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
 
 # Day-2
-## Tinkercad program 1https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png
+## Tinkercad program
 
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/roshantinkercad.png)
 
