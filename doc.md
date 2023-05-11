@@ -60,3 +60,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
+# Day-3
+# Tinkercad program 6
+[tinker cad experiment 6](https://www.tinkercad.com/things/0JfLINgRWeQ-5-led-with-using-arduino/editel)
+![exp no 6](
