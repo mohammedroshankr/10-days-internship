@@ -7,3 +7,4 @@
 # Day-2 Tinkercad program 2
 
 ![EXP 2](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp2.png)
+[thinkercad](https://www.tinkercad.com/things/iio3GSZ0liH-smashing-bigery/editel)
