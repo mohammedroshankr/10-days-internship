@@ -19,5 +19,6 @@
 
 # Day-3 
 # Tinkercad program 4
+[tinker cad experiment 3](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
+![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
-![exp no 4](
