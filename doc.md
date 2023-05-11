@@ -4,11 +4,13 @@
 
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/roshantinkercad.png)
 
-# Day-2 Tinkercad program 2
+# Day-2
+# Tinkercad program 2
 
 ![EXP 2](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp2.png)
 [thinkercad](https://www.tinkercad.com/things/iio3GSZ0liH-smashing-bigery/editel)
 
-# Day-3 Tinkercad program 3
+# Day-3
+# Tinkercad program 3
 
 ![exp no 3](https://github.com/mohammedroshankr/10-days-internship/blob/main/roshenrkexp3.png)
