@@ -65,7 +65,7 @@ void loop()
 [tinker cad experiment 6](https://www.tinkercad.com/things/0JfLINgRWeQ-5-led-with-using-arduino/editel)
 ![exp no 6](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png)
 
-code for this experiment
+## Code for this experiment
 ```
 // C++ code
 //
