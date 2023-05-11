@@ -1,7 +1,7 @@
 # 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
 
 # Day-2
-## Tinkercad program
+## Tinkercad program 1
 
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/roshantinkercad.png)
 
@@ -61,7 +61,7 @@ void loop()
 }
 ```
 # Day-3
-# Tinkercad program 6
+## Tinkercad program 6
 [tinker cad experiment 6](https://www.tinkercad.com/things/0JfLINgRWeQ-5-led-with-using-arduino/editel)
 ![exp no 6](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png)
 
