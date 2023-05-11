@@ -4,7 +4,8 @@
 ## Tinkercad program 1
 
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/roshantinkercad.png)
-[thinker cad experiment 2](
+[thinker cad experiment 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshantinkercad.png)
+
 # Day-2
 ## Tinkercad program 2
 
