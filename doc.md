@@ -1,34 +1,34 @@
-# 10 days intership at Jyothi engineering college
+# 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
 
 # Day-2
-# Tinkercad program 1
+## Tinkercad program 1https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png
 
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/roshantinkercad.png)
 
 # Day-2
-# Tinkercad program 2
+## Tinkercad program 2
 
 ![EXP 2](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp2.png)
 [thinker cad experiment 2](https://www.tinkercad.com/things/iio3GSZ0liH-smashing-bigery/editel)
 
 # Day-3
-# Tinkercad program 3
+## Tinkercad program 3
 
 ![exp no 3](https://github.com/mohammedroshankr/10-days-internship/blob/main/roshenrkexp3.png)
 [tinker cad experiment 3](https://www.tinkercad.com/things/crnZaFSCJ77-led-blink-using-7408-ic/editel)
 
 # Day-3 
-# Tinkercad program 4
+## Tinkercad program 4
 [tinker cad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
 ![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
 
 # Day-3 
-# Tinkercad program 5
+## Tinkercad program 5
 [tinker cad experiment 5](https://www.tinkercad.com/things/kX0SbLOhivB-brave-crift-esboo/editel)
 ![exp no 5](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp5.png)
 
-## Code for led bilnk with Arduino
+### Code for LED bilnk with Arduino
 
 ```
 // C++ code
@@ -65,7 +65,7 @@ void loop()
 [tinker cad experiment 6](https://www.tinkercad.com/things/0JfLINgRWeQ-5-led-with-using-arduino/editel)
 ![exp no 6](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png)
 
-## Code for this experiment
+### Code for this Experiment
 ```
 // C++ code
 //
