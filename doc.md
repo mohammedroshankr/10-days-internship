@@ -16,3 +16,8 @@
 
 ![exp no 3](https://github.com/mohammedroshankr/10-days-internship/blob/main/roshenrkexp3.png)
 [tinker cad experiment 3](https://www.tinkercad.com/things/crnZaFSCJ77-led-blink-using-7408-ic/editel)
+
+# Day-3 
+# Tinkercad program 4
+
+![exp no 4](
