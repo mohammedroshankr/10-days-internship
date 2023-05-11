@@ -22,3 +22,8 @@
 [tinker cad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
 ![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
+
+# Day-3 
+# Tinkercad program 5
+[tinker cad experiment 5](https://www.tinkercad.com/things/kX0SbLOhivB-brave-crift-esboo/editel)
+![exp no 5](
