@@ -105,5 +105,5 @@ void loop()
 ```
 # DAY 3
 ## Tinkercad program 7
-## [tinker cad experiment 7](https://www.tinkercad.com/things/iYCAsnfsYuh-brilliant-waasa/editel?tenant=circuits)
+## [The circuit Link of Tinkercad experiment 7](https://www.tinkercad.com/things/iYCAsnfsYuh-brilliant-waasa/editel?tenant=circuits)
 ![exp no 6](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp7.png)
