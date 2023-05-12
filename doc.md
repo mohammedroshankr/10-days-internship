@@ -1,31 +1,31 @@
 # 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
 
 # Day-2
-## Tinkercad program 1
+## TINKERCAD PROGRAM 1
 
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshantinkercad.png)
 ## [The circuit design Link of Tinkercad experiment 1](https://www.tinkercad.com/things/87sLl6dO7mu-brave-amur/editel?tenant=circuits)
 
 # Day-2
-## Tinkercad program 2
+## TINKERCAD PROGRAM 2
 
 ![EXP 2](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp2.png)
 ## [The circuit design Link of Tinkercad experiment 2](https://www.tinkercad.com/things/iio3GSZ0liH-smashing-bigery/editel)
 
 # Day-3
-## Tinkercad program 3
+## TINKERCAD PROGRAM 3
 
 ![exp no 3](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshenrkexp3.png)
 ## [The circuit design Link of Tinkercad experiment 3](https://www.tinkercad.com/things/crnZaFSCJ77-led-blink-using-7408-ic/editel)
 
 # Day-3 
-## Tinkercad program 4
+## TINKERCAD PROGRAM 4
 ## [The circuit design Link of Tinkercad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
 ![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
 
 # Day-3 
-## Tinkercad program 5
+## TINKERCAD PROGRAM 5
 ## [The circuit design Link of Tinkercad experiment 5](https://www.tinkercad.com/things/kX0SbLOhivB-brave-crift-esboo/editel)
 ![exp no 5](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp5.png)
 
@@ -62,7 +62,7 @@ void loop()
 }
 ```
 # Day-3
-## Tinkercad program 6
+## TINKERCAD PROGRAM 6
 ## [The circuit design Link of Tinkercad experiment 6](https://www.tinkercad.com/things/0JfLINgRWeQ-5-led-with-using-arduino/editel)
 ![exp no 6](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png)
 
@@ -104,6 +104,6 @@ void loop()
 }
 ```
 # DAY 3
-## Tinkercad program 7
+## TINKERCAD PROGRAM 7
 ## [The circuit design Link of Tinkercad experiment 7](https://www.tinkercad.com/things/iYCAsnfsYuh-brilliant-waasa/editel?tenant=circuits)
 ![exp no 6](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp7.png)
