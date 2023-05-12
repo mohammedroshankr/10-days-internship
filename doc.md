@@ -19,7 +19,7 @@
 [tinker cad experiment 3](https://www.tinkercad.com/things/crnZaFSCJ77-led-blink-using-7408-ic/editel)
 
 # Day-3 
-## Tinkercad program 4
+## Tinkercad program 4https://www.tinkercad.com/things/iYCAsnfsYuh-brilliant-waasa/editel?tenant=circuits
 [tinker cad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
 ![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
@@ -103,3 +103,7 @@ void loop()
   delay(300); // Wait for 1000 millisecond(s)
 }
 ```
+# DAY 3
+## Tinkercad program 7
+[tinker cad experiment 7](https://www.tinkercad.com/things/iYCAsnfsYuh-brilliant-waasa/editel?tenant=circuits)
+![exp no 6](
