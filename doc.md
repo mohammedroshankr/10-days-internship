@@ -1,4 +1,6 @@
 # 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
+# DAY 1
+## PROFILE
 **roshan**
 >roshan
 'mohammed roshan'
