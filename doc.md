@@ -17,7 +17,8 @@ print("hello");
 
 ![roshan](https://github.com/mohammedroshankr/roshan/blob/main/img/Untitled.jpeg)
 
-# Day-2
+# DAY-2
+## EXP 1
 ## TINKERCAD PROGRAM 1
 
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshantinkercad.png)
