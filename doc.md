@@ -20,7 +20,7 @@ print("hello");
 # DAY-2
 ## EXP 1
 ## TINKERCAD PROGRAM 1
-### EXPERIMENT NAME: BLINKING LED
+### *EXPERIMENT NAME: BLINKING LED*
 
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshantinkercad.png)
 ## [The circuit design Link of Tinkercad experiment 1](https://www.tinkercad.com/things/87sLl6dO7mu-brave-amur/editel?tenant=circuits)
