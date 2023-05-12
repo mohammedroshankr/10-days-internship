@@ -26,25 +26,29 @@ print("hello");
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshantinkercad.png)
 ## [The circuit design Link of Tinkercad experiment 1](https://www.tinkercad.com/things/87sLl6dO7mu-brave-amur/editel?tenant=circuits)
 
-# Day-2
+# DAY-2
+## EXP 2
 ## TINKERCAD PROGRAM 2
-### EXPERIMENT NAME:BLINKING LED USING PUSH BUTTON
+### EXPERIMENT NAME: BLINKING LED USING PUSH BUTTON
 ![EXP 2](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp2.png)
 ## [The circuit design Link of Tinkercad experiment 2](https://www.tinkercad.com/things/iio3GSZ0liH-smashing-bigery/editel)
 
-# Day-3
+# DAY-3
+## EXP 3
 ## TINKERCAD PROGRAM 3
 
 ![exp no 3](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshenrkexp3.png)
 ## [The circuit design Link of Tinkercad experiment 3](https://www.tinkercad.com/things/crnZaFSCJ77-led-blink-using-7408-ic/editel)
 
-# Day-3 
+# DAY-3
+## EXP 4
 ## TINKERCAD PROGRAM 4
 ## [The circuit design Link of Tinkercad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
 ![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
 
 # Day-3 
+## EXP 5
 ## TINKERCAD PROGRAM 5
 ## [The circuit design Link of Tinkercad experiment 5](https://www.tinkercad.com/things/kX0SbLOhivB-brave-crift-esboo/editel)
 ![exp no 5](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp5.png)
