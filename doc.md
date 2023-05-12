@@ -4,7 +4,7 @@
 ## Tinkercad program 1
 
 ![EXP 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/roshantinkercad.png)
-[thinker cad experiment 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshantinkercad.png)
+[thinker cad experiment 1](https://www.tinkercad.com/things/87sLl6dO7mu-brave-amur/editel?tenant=circuits)
 
 # Day-2
 ## Tinkercad program 2
