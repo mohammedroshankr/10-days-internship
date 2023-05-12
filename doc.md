@@ -1,4 +1,19 @@
 # 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
+**roshan**
+>roshan
+'mohammed roshan'
+```
+
+#include<stdio.h>
+
+int main()
+{
+print("hello");
+}
+```
+[shanibmuhammd](https://www.github.com/shanibmuhammd)
+
+![roshan](https://github.com/mohammedroshankr/roshan/blob/main/img/Untitled.jpeg)
 
 # Day-2
 ## TINKERCAD PROGRAM 1
