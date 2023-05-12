@@ -1,9 +1,9 @@
 # 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
 # DAY 1
 ## PROFILE
-**roshan**
->roshan
-'mohammed roshan'
+## **MOHAMMED ROSHAN KR**
+### ROLL NO-33 SEMESTER:4
+#### 'ELECTRONICS AND COMMUNICATION ENGINEERING'
 ```
 
 #include<stdio.h>
@@ -13,7 +13,7 @@ int main()
 print("hello");
 }
 ```
-[shanibmuhammd](https://www.github.com/shanibmuhammd)
+## This is a github profile link of a friend:point_right: [shanibmuhammd](https://www.github.com/shanibmuhammd)
 
 ![roshan](https://github.com/mohammedroshankr/roshan/blob/main/img/Untitled.jpeg)
 
