@@ -139,6 +139,7 @@ void loop()
 
 # DAY-5
 ## TINKERCAD PROGRAM 1
+## *EXPERIMENT NAME:INERFACING POTENTIOMETER WITH ARDUINO*
 ## [The circuit design Link of Tinkercad experiment 7](https://www.tinkercad.com/things/k23EAm8JWQn-interfacing-potentiometer-with-arduino/editel)
 ![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/PotentiometerDay5EXP1.png)
 ### CODE FOR THIS EXPERIMENT : 
