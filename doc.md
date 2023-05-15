@@ -155,3 +155,5 @@ void loop() {
   delay(100);
 }
 ```
+## TINKERCAD PROGRAM
+## *EXPERIMENT NAME:DISPLAY 0 to 9 USING ARDUINO
