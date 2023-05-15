@@ -135,7 +135,7 @@ void loop()
 
 # DAY-4
 ## GOOGLE BLOCKLY PROGRAM 
-![exp no 1](
+![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/Blockly.png)
 
 # DAY-5
 ## TINKERCAD PROGRAM 1
