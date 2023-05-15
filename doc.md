@@ -131,3 +131,7 @@ void loop()
 ## TINKERCAD PROGRAM 7
 ## [The circuit design Link of Tinkercad experiment 7](https://www.tinkercad.com/things/iYCAsnfsYuh-brilliant-waasa/editel?tenant=circuits)
 ![exp no 6](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp7.png)
+
+# DAY-5
+## TINKERCAD PROGRAM 1
+## [The circuit design Link of Tinkercad experiment 7](https://www.tinkercad.com/things/k23EAm8JWQn-interfacing-potentiometer-with-arduino/editel)
