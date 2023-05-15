@@ -129,6 +129,7 @@ void loop()
 ```
 ## EXP 7
 ## TINKERCAD PROGRAM 7
+## EXPERIMENT NAME: 7 SEGMENT DISPLAY
 ## [The circuit design Link of Tinkercad experiment 7](https://www.tinkercad.com/things/iYCAsnfsYuh-brilliant-waasa/editel?tenant=circuits)
 ![exp no 7](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp7.png)
 
