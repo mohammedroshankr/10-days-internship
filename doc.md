@@ -104,7 +104,7 @@ void setup()https://www.tinkercad.com/things/h0Sqzo0CiVv-copy-of-0-to-9-display/
 }
 https://github.com/mohammedroshankr/10-days-internship/blob/main/img/componentlist0to9.png
 void loop()
-{
+{https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/schematic.day5.exp1.p1.png
   digitalWrite(13, HIGH);
   delay(300); // Wait for 1000 millisecond(s)
   digitalWrite(13, LOW);
@@ -134,7 +134,7 @@ void loop()
 ![exp no 7](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp7.png)
 
 # DAY-4
-## GOOGLE BLOCKLY PROGRAM 
+## GOOGLE BLOCKLY PROGRAM https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/schematic.day5.exp1.p1.png
 ![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/Blockly.png)
 
 # DAY-5
@@ -147,7 +147,7 @@ void loop()
 ![COMPONENTS](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/components.day5.exp1.p1.png)
 ## SCHEMATIC VIEW
 ![SCHEMATIC](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/schematic.day5.exp1.p1.png)
-https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/schematic.day5.exp1.p1.png
+
 ### CODE FOR THIS EXPERIMENT : 
 ```
 const int potPin=A0;
