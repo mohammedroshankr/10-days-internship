@@ -17,7 +17,28 @@ print("hello");
 ## This is a github profile link of a friend:point_right: [shanibmuhammd](https://www.github.com/shanibmuhammd)
 
 ![roshan](https://github.com/mohammedroshankr/roshan/blob/main/img/Untitled.jpeg)
+var num_1, num_2, operator;
 
+// Describe this function...
+function packet() {
+  for (var count = 0; count < 10; count++) {
+    num_1 = Number(window.prompt('enter first number'));
+    num_2 = window.prompt('enter the second number');
+    operator = window.prompt('enter the operator');
+    if (operator == '+') {
+      window.alert(num_1 + num_2);
+    } else if (operator == '-') {
+      window.alert(num_1 - num_2);
+    } else if (operator == '*') {
+      window.alert(num_1 * num_2);
+    } else if (operator == '/') {
+      window.alert(num_1 / num_2);
+    }
+  }
+}
+
+
+packet();
 # DAY-2
 ## EXP 1
 ## TINKERCAD PROGRAM 1
@@ -96,7 +117,28 @@ void loop()
 //
 void setup()
 {
-  pinMode(13, OUTPUT);
+  pinMode(13, OUTPUT);var num_1, num_2, operator;
+
+// Describe this function...
+function packet() {
+  for (var count = 0; count < 10; count++) {
+    num_1 = Number(window.prompt('enter first number'));
+    num_2 = window.prompt('enter the second number');
+    operator = window.prompt('enter the operator');
+    if (operator == '+') {
+      window.alert(num_1 + num_2);
+    } else if (operator == '-') {
+      window.alert(num_1 - num_2);
+    } else if (operator == '*') {
+      window.alert(num_1 * num_2);
+    } else if (operator == '/') {
+      window.alert(num_1 / num_2);
+    }
+  }
+}
+
+
+packet();
   pinMode(12, OUTPUT);
   pinMode(8, OUTPUT);
   pinMode(7, OUTPUT);
@@ -134,7 +176,7 @@ void loop()
 ![exp no 7](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp7.png)
 
 # DAY-4
-## GOOGLE BLOCKLY PROGRAM https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/schematic.day5.exp1.p1.png
+## GOOGLE BLOCKLY PROGRAM
 ![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/DAY4-1.BLOCKLY.png)
 ## CODE FOR THIS BLOCKLY PROGRAM
 ```
