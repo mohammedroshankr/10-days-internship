@@ -156,5 +156,6 @@ void loop() {
 }
 ```
 ## TINKERCAD PROGRAM
-## *EXPERIMENT NAME:DISPLAY 0 to 9 USING ARDUINO
-## [The circuit design Link of Tinkercad experiment 7](https://www.tinkercad.com/things/h0Sqzo0CiVv-copy-of-0-to-9-display/editel?tenant=circuits)
+## *EXPERIMENT NAME:DISPLAY 0 to 9 USING ARDUINO*
+## [The circuit design Link of Tinkercad experiment 7](https://www.tinkercad.com/things/h0Sqzo0CiVv-using-arduino-0-to-9-display/edite)
+![exp no 2]
