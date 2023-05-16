@@ -63,11 +63,11 @@ packet();
 /*
   This program blinks pin 13 of the Arduino (the
   built-in LED)
-*/https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png
+*
 
 void setup()
 {
-  pinMode(8, OUTPUT);https://github.com/mohammedroshankr/10-days-internship/blob/main/img/componentlist0to9.png
+  pinMode(8, OUTPUT);
   pinMode(13, OUTPUT);
 }
 
