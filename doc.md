@@ -1,5 +1,5 @@
 # 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
-# DAY 1https://www.tinkercad.com/things/h0Sqzo0CiVv-copy-of-0-to-9-display/editel?tenant=circuits
+# DAY 1
 # *ACTIVITY : 1*
 ## PROFILE
 ## **MOHAMMED ROSHAN KR**
@@ -34,7 +34,7 @@ print("hello");
 ## [The circuit design Link of Tinkercad experiment 2](https://www.tinkercad.com/things/iio3GSZ0liH-smashing-bigery/editel)
 
 # DAY-3
-## EXP 3https://www.tinkercad.com/things/h0Sqzo0CiVv-copy-of-0-to-9-display/editel?tenant=circuits
+## EXP 3
 ## TINKERCAD PROGRAM 3
 
 ![exp no 3](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshenrkexp3.png)
@@ -49,7 +49,7 @@ print("hello");
 
  
 ## EXP 5
-## TINKERCAD PROGRAM 5https://www.tinkercad.com/things/h0Sqzo0CiVv-copy-of-0-to-9-display/editel?tenant=circuits
+## TINKERCAD PROGRAM 5
 ## [The circuit design Link of Tinkercad experiment 5](https://www.tinkercad.com/things/kX0SbLOhivB-brave-crift-esboo/editel)
 ![exp no 5](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp5.png)
 
@@ -94,7 +94,7 @@ void loop()
 ```
 // C++ code
 //
-void setup()https://www.tinkercad.com/things/h0Sqzo0CiVv-copy-of-0-to-9-display/editel?tenant=circuits
+void setup()
 {
   pinMode(13, OUTPUT);
   pinMode(12, OUTPUT);
@@ -102,9 +102,9 @@ void setup()https://www.tinkercad.com/things/h0Sqzo0CiVv-copy-of-0-to-9-display/
   pinMode(7, OUTPUT);
   pinMode(4, OUTPUT);
 }
-https://github.com/mohammedroshankr/10-days-internship/blob/main/img/componentlist0to9.png
+
 void loop()
-{https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/schematic.day5.exp1.p1.png
+{
   digitalWrite(13, HIGH);
   delay(300); // Wait for 1000 millisecond(s)
   digitalWrite(13, LOW);
