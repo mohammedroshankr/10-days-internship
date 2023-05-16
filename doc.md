@@ -65,7 +65,7 @@ print("hello");
 
 void setup()
 {
-  pinMode(8, OUTPUT);
+  pinMode(8, OUTPUT);https://github.com/mohammedroshankr/10-days-internship/blob/main/img/componentlist0to9.png
   pinMode(13, OUTPUT);
 }
 
@@ -257,4 +257,4 @@ void loop()
 } 
 ```
 ## COMPONENTS UESD
-![COMPONENTS](
+![COMPONENTS](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/componentlist0to9.png)
