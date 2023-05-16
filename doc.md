@@ -60,10 +60,10 @@ packet();
 ```
 // C++ code
 //
-/*
+/
   This program blinks pin 13 of the Arduino (the
   built-in LED)
-*
+
 
 void setup()
 {
