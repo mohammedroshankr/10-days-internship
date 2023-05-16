@@ -140,7 +140,7 @@ void loop()
 # DAY-5
 ## TINKERCAD PROGRAM 1
 ## *EXPERIMENT NAME:INERFACING POTENTIOMETER WITH ARDUINO*
-## [The circuit design Link of Tinkercad experiment 7](https://www.tinkercad.com/things/k23EAm8JWQn-interfacing-potentiometer-with-arduino/editel)
+## [The circuit design Link of Tinkercad experiment 1](https://www.tinkercad.com/things/k23EAm8JWQn-interfacing-potentiometer-with-arduino/editel)
 ![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/PotentiometerDay5EXP1.png)
 ### CODE FOR THIS EXPERIMENT : 
 ```
@@ -155,9 +155,9 @@ void loop() {
   delay(100);
 }
 ```
-## TINKERCAD PROGRAM
+## TINKERCAD PROGRAM 2
 ## *EXPERIMENT NAME:DISPLAY 0 to 9 USING ARDUINO*
-## [The circuit design Link of Tinkercad experiment 7](https://www.tinkercad.com/things/h0Sqzo0CiVv-using-arduino-0-to-9-display/edite)
+## [The circuit design Link of Tinkercad experiment 2](https://www.tinkercad.com/things/h0Sqzo0CiVv-using-arduino-0-to-9-display/edite)
 ![exp no 2](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/arduino.0to9.png)
 ### CODE FOR THIS EXPERIMENT : 
 ```
