@@ -8,7 +8,7 @@
 ```
 
 #include<stdio.h>
-https://github.com/mohammedroshankr/10-days-internship/blob/main/img/PotentiometerDay5EXP1.png
+
 int main()
 {
 print("hello");
@@ -72,7 +72,7 @@ void setup()
 }
 
 void loop()
-{https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png
+{
   // turn the LED on (HIGH is the voltage level)
   digitalWrite(8, HIGH);
   delay(1000); // Wait for 1000 millisecond(s)
@@ -83,7 +83,7 @@ void loop()
   digitalWrite(13, HIGH);
   delay(1000); // Wait for 1000 millisecond(s)img
   // turn the LED off by making the voltage LOW
-  digitalWrite(13, LOW);https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png
+  digitalWrite(13, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
@@ -267,7 +267,28 @@ void loop()
   digitalWrite(6,HIGH);
   digitalWrite(7,LOW);
   digitalWrite(8,LOW);
-  delay(2000);
+  delay(2000);var num_1, num_2, operator;
+
+// Describe this function...
+function packet() {
+  for (var count = 0; count < 10; count++) {
+    num_1 = Number(window.prompt('enter first number'));
+    num_2 = window.prompt('enter the second number');
+    operator = window.prompt('enter the operator');
+    if (operator == '+') {
+      window.alert(num_1 + num_2);
+    } else if (operator == '-') {
+      window.alert(num_1 - num_2);
+    } else if (operator == '*') {
+      window.alert(num_1 * num_2);
+    } else if (operator == '/') {
+      window.alert(num_1 / num_2);
+    }
+  }
+}
+
+
+packet();
   digitalWrite(2,LOW);
   digitalWrite(3,HIGH);
   digitalWrite(4,LOW);
