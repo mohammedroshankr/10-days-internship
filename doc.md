@@ -17,25 +17,6 @@ print("hello");
 ## This is a github profile link of a friend:point_right: [shanibmuhammd](https://www.github.com/shanibmuhammd)
 
 ![roshan](https://github.com/mohammedroshankr/roshan/blob/main/img/Untitled.jpeg)
-var num_1, num_2, operator;
-
-// Describe this function...
-function packet() {
-  for (var count = 0; count < 10; count++) {
-    num_1 = Number(window.prompt('enter first number'));
-    num_2 = window.prompt('enter the second number');
-    operator = window.prompt('enter the operator');
-    if (operator == '+') {
-      window.alert(num_1 + num_2);
-    } else if (operator == '-') {
-      window.alert(num_1 - num_2);
-    } else if (operator == '*') {
-      window.alert(num_1 * num_2);
-    } else if (operator == '/') {
-      window.alert(num_1 / num_2);
-    }
-  }
-}
 
 
 packet();
