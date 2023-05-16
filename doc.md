@@ -102,7 +102,7 @@ void setup()https://www.tinkercad.com/things/h0Sqzo0CiVv-copy-of-0-to-9-display/
   pinMode(7, OUTPUT);
   pinMode(4, OUTPUT);
 }
-
+https://github.com/mohammedroshankr/10-days-internship/blob/main/img/componentlist0to9.png
 void loop()
 {
   digitalWrite(13, HIGH);
@@ -256,5 +256,7 @@ void loop()
   delay(2000);
 } 
 ```
-## COMPONENTS UESD
+## COMPONENTS USED
 ![COMPONENTS](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/componentlist0to9.png)
+## SCHEMATIC VIEW
+![SCHEMATIC VIEW](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/SCHEMATIC.0to9.png)
