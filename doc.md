@@ -79,7 +79,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
   // turn the LED on (HIGH is the voltage level)
   digitalWrite(13, HIGH);
-  delay(1000); // Wait for 1000 millisecond(s)
+  delay(1000); // Wait for 1000 millisecond(s)img
   // turn the LED off by making the voltage LOW
   digitalWrite(13, LOW);https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshankrexp6.png
   delay(1000); // Wait for 1000 millisecond(s)
@@ -231,7 +231,7 @@ void loop()
   digitalWrite(8,LOW);
   delay(2000);
   digitalWrite(2,LOW);
-  digitalWrite(3,LOW);
+  digitalWrite(3,LOW);img
   digitalWrite(4,LOW);
   digitalWrite(5,HIGH);
   digitalWrite(6,HIGH);
@@ -241,7 +241,7 @@ void loop()
   digitalWrite(2,LOW);
   digitalWrite(3,LOW);
   digitalWrite(4,LOW);
-  digitalWrite(5,LOW);
+  digitalWrite(5,LOW);img
   digitalWrite(6,LOW);
   digitalWrite(7,LOW);
   digitalWrite(8,LOW);
@@ -256,3 +256,5 @@ void loop()
   delay(2000);
 } 
 ```
+## COMPONENTS UESD
+![COMPONENTS](
