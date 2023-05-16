@@ -142,6 +142,12 @@ void loop()
 ## *EXPERIMENT NAME:INERFACING POTENTIOMETER WITH ARDUINO*
 ## [The circuit design Link of Tinkercad experiment 1](https://www.tinkercad.com/things/k23EAm8JWQn-interfacing-potentiometer-with-arduino/editel)
 ![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/PotentiometerDay5EXP1.png)
+
+## COMPONENTS REQUIRED
+![COMPONENTS](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/components.day5.exp1.p1.png)
+## SCHEMATIC VIEW
+![SCHEMATIC](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/schematic.day5.exp1.p1.png)
+https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/schematic.day5.exp1.p1.png
 ### CODE FOR THIS EXPERIMENT : 
 ```
 const int potPin=A0;
