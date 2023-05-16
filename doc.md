@@ -135,7 +135,32 @@ void loop()
 
 # DAY-4
 ## GOOGLE BLOCKLY PROGRAM https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/schematic.day5.exp1.p1.png
-![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/Blockly.png)
+![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/DAY4-1.BLOCKLY.png)
+## CODE FOR THIS BLOCKLY PROGRAM
+```
+var num_1, num_2, operator;
+
+// Describe this function...
+function packet() {
+  for (var count = 0; count < 10; count++) {
+    num_1 = Number(window.prompt('enter first number'));
+    num_2 = window.prompt('enter the second number');
+    operator = window.prompt('enter the operator');
+    if (operator == '+') {
+      window.alert(num_1 + num_2);
+    } else if (operator == '-') {
+      window.alert(num_1 - num_2);
+    } else if (operator == '*') {
+      window.alert(num_1 * num_2);
+    } else if (operator == '/') {
+      window.alert(num_1 / num_2);
+    }
+  }
+}
+
+
+packet();
+```
 
 # DAY-5
 ## TINKERCAD PROGRAM 1
