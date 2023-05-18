@@ -351,4 +351,4 @@ packet();
 ### NAME:DISPLAY 0-9 USING 7 SEGMENT AND POTENTIOMETER
 ![CLICK HERE](https://www.tinkercad.com/things/0d2dpczc7uL-0-to-9-display-using-potentiometer/editel)
  ### *CIRCUIT DIAGRAM*
- ![circuit diagram](https://www.tinkercad.com/things/0d2dpczc7uL-0-to-9-display-using-potentiometer/editel)
+ ![circuitdiagram](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-8/Circuit%20design%200%20to%209%20DISPLAY%20USING%20POTENTIOMETER%20Tinkercad.png)
