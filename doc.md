@@ -20,7 +20,7 @@ print("hello");
 
 
 
-# DAY-2
+# DAY-2https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-8/DISPLAY%20USING%20POTENTIOMETER.DAY8.pdf.png
 ## EXP 1
 ## TINKERCAD PROGRAM 1
 ### *EXPERIMENT NAME: BLINKING LED*
@@ -176,7 +176,7 @@ packet();
 ## > Introduced drones by professor of automation and robotics
 ### 1. Introduced Drones
 ### 2. Explained about drones parts
-### 3. Also speaked about the technical specifications like (#### Thrust,altitude,propeler diamention,weight management) 
+### 3. Also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
 ### 4. To configure the drones with software named as mission planner 
 
 ![image](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png)
