@@ -20,7 +20,7 @@ print("hello");
 
 
 
-# DAY-2https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-8/DISPLAY%20USING%20POTENTIOMETER.DAY8.pdf.png
+# DAY-2
 ## EXP 1
 ## TINKERCAD PROGRAM 1
 ### *EXPERIMENT NAME: BLINKING LED*
