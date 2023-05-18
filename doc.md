@@ -48,7 +48,13 @@ packet();
 ## [The circuit design Link of Tinkercad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
 ![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
-
+**AI & ML** 
+> STM 32 NUCLEO DEVELOPMENT BOARD
+ 
+![IMAGE](
+1. the board is programmeble
+2. Can program th board by nucleo software
+3. it can build a sound detecting device by using microphone sensor 
  
 ## EXP 5
 ## TINKERCAD PROGRAM 5
