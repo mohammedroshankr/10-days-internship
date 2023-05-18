@@ -135,6 +135,7 @@ void loop()
 ![exp no 7](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/exp7.png)
 
 # DAY-4
+## *EXPERIMENT : 1*
 ## GOOGLE BLOCKLY PROGRAM
 ![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/DAY4-1.BLOCKLY.png)
 ## CODE FOR THIS BLOCKLY PROGRAM
@@ -162,7 +163,7 @@ function packet() {
 
 packet();
 ```
-
+## *EXPERIMENT : 2*
 # **AI & ML** 
 ## > STM 32 NUCLEO DEVELOPMENT BOARD
  
@@ -176,11 +177,13 @@ packet();
 ### 1. Introduced Drones
 ### 2. Explained about drones parts
 ### 3. Also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
-### 4. To configure the drones with software named as mission planner ![image](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png)
+### 4. To configure the drones with software named as mission planner 
+
+![image](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png)
 
 ## > Analog reader potentiometer
 
- ### RELATED PROGRAM SHOWN IN BELOW
+ ### *RELATED PROGRAM SHOWN IN BELOW*
 ## TINKERCAD PROGRAM 1
 ## *EXPERIMENT NAME:INERFACING POTENTIOMETER WITH ARDUINO*
 ## [The circuit design Link of Tinkercad experiment 1](https://www.tinkercad.com/things/k23EAm8JWQn-interfacing-potentiometer-with-arduino/editel)
