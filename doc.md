@@ -66,7 +66,7 @@ packet();
 
 
 void setup()
-{https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png
+{
   pinMode(8, OUTPUT);
   pinMode(13, OUTPUT);
 }
@@ -94,29 +94,7 @@ void loop()
 
 ### Code for this Experiment
 ```
-// C++ code
-//
-void setup()
-{
-  pinMode(13, OUTPUT);var num_1, num_2, operator;
 
-// Describe this function...
-function packet() {
-  for (var count = 0; count < 10; count++) {
-    num_1 = Number(window.prompt('enter first number'));
-    num_2 = window.prompt('enter the second number');
-    operator = window.prompt('enter the operator');
-    if (operator == '+') {
-      window.alert(num_1 + num_2);
-    } else if (operator == '-') {
-      window.alert(num_1 - num_2);
-    } else if (operator == '*') {
-      window.alert(num_1 * num_2);
-    } else if (operator == '/') {
-      window.alert(num_1 / num_2);
-    }
-  }
-}
 
 
 packet();
