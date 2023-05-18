@@ -2,12 +2,12 @@
 # DAY 1
 # *ACTIVITY : 1*
 ## PROFILE
-## **MOHAMMED ROSHAN KR**https://www.tinkercad.com/things/0d2dpczc7uL-0-to-9-display-using-potentiometer/editel
+## **MOHAMMED ROSHAN KR**
 ### ROLL NO-33 SEMESTER:4
 #### 'ELECTRONICS AND COMMUNICATION ENGINEERING'
 ```
 
-#include<stdio.h>https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/robotics.jpeg
+#include<stdio.h>
 
 int main()
 {
@@ -19,7 +19,7 @@ print("hello");
 ![roshan](https://github.com/mohammedroshankr/roshan/blob/main/img/Untitled.jpeg)
 
 
-packet();
+
 # DAY-2
 ## EXP 1
 ## TINKERCAD PROGRAM 1
@@ -261,28 +261,7 @@ void loop()
   digitalWrite(6,HIGH);
   digitalWrite(7,LOW);
   digitalWrite(8,LOW);
-  delay(2000);var num_1, num_2, operator;
-
-// Describe this function...
-function packet() {
-  for (var count = 0; count < 10; count++) {
-    num_1 = Number(window.prompt('enter first number'));
-    num_2 = window.prompt('enter the second number');
-    operator = window.prompt('enter the operator');
-    if (operator == '+') {
-      window.alert(num_1 + num_2);
-    } else if (operator == '-') {
-      window.alert(num_1 - num_2);
-    } else if (operator == '*') {
-      window.alert(num_1 * num_2);
-    } else if (operator == '/') {
-      window.alert(num_1 / num_2);
-    }
-  }
-}
-
-
-packet();
+  delay(2000);
   digitalWrite(2,LOW);
   digitalWrite(3,HIGH);
   digitalWrite(4,LOW);
@@ -300,7 +279,7 @@ packet();
   digitalWrite(8,LOW);
   delay(2000);
   digitalWrite(2,LOW);
-  digitalWrite(3,LOW);img
+  digitalWrite(3,LOW);
   digitalWrite(4,LOW);
   digitalWrite(5,HIGH);
   digitalWrite(6,HIGH);
@@ -310,7 +289,7 @@ packet();
   digitalWrite(2,LOW);
   digitalWrite(3,LOW);
   digitalWrite(4,LOW);
-  digitalWrite(5,LOW);img
+  digitalWrite(5,LOW);
   digitalWrite(6,LOW);
   digitalWrite(7,LOW);
   digitalWrite(8,LOW);
