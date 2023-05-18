@@ -7,7 +7,7 @@
 #### 'ELECTRONICS AND COMMUNICATION ENGINEERING'
 ```
 
-#include<stdio.h>
+#include<stdio.h>https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/robotics.jpeg
 
 int main()
 {
@@ -48,13 +48,7 @@ packet();
 ## [The circuit design Link of Tinkercad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
 ![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
-**AI & ML** 
-> STM 32 NUCLEO DEVELOPMENT BOARD
- 
-![IMAGE](
-1. the board is programmeble
-2. Can program th board by nucleo software
-3. it can build a sound detecting device by using microphone sensor 
+
  
 ## EXP 5
 ## TINKERCAD PROGRAM 5
@@ -134,7 +128,7 @@ packet();
 
 void loop()
 {
-  digitalWrite(13, HIGH);
+  digitalWrite(13, HIGH);https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/robotics.jpeg
   delay(300); // Wait for 1000 millisecond(s)
   digitalWrite(13, LOW);
   delay(300); // Wait for 1000 millisecond(s)
@@ -190,6 +184,14 @@ function packet() {
 
 packet();
 ```
+
+**AI & ML** 
+> STM 32 NUCLEO DEVELOPMENT BOARD
+ 
+![IMAGE](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/robotics.jpeg)
+1. the board is programmeble
+2. Can program th board by nucleo software
+3. it can build a sound detecting device by using microphone sensor 
 
 # DAY-5
 ## TINKERCAD PROGRAM 1
