@@ -70,7 +70,7 @@ void setup()
   pinMode(8, OUTPUT);
   pinMode(13, OUTPUT);
 }
-
+https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-8/DISPLAY%20USING%20POTENTIOMETER.DAY8.pdf.png
 void loop()
 {
   // turn the LED on (HIGH is the voltage level)
@@ -309,20 +309,22 @@ void loop()
 ## SCHEMATIC VIEW
 ![SCHEMATIC VIEW](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/SCHEMATIC.0to9.png)
 
-# Day-6
- > Basics of 3D printing conducted by 3rd year student robotics
-1. first introduced of the 3d printing
-2. creating  models by the tinkercad 3D modeling
-3. start with basic shapes
-4. also cover the previous design's
-5. created a base and top cover for the flower bottel by using [Tinkercad](https://www.tinkercad.com/)
-6. then introduced the 3D printer 
-7. also printed a design (duration 19 min)
-# Day-7
-> Introduced the yaskawa arm robot
-1. The introduction of yaskawa AR1440 
+# DAY-6
+
+### >BASICS OF 3D PRINTING CONDUCTED BY A PROFESSOR IN ROBOTICS
+
+#### 1. First introduced of the 3d printing
+#### 2. Creating  models by the tinkercad 3D modeling
+#### 3. Start with basic shapes
+#### 4. Also cover the previous design's
+#### 5. Created a base and top cover for the flower bottel by using [Tinkercad](https://www.tinkercad.com/)
+#### 6. Then introduced the 3D printer 
+#### 7. Also printed a design (duration 19 min)
+# DAY-7
+### > Introduced the yaskawa arm robots
+#### 1. The introduction of yaskawa AR1440 
 ![image](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/robotics.jpeg)
-> Then introduced about the EV (electric vehicle)
+#### > Then introduced about the EV (electric vehicle)
 
 # DAY-8
 ## EXPERIMENT-1
