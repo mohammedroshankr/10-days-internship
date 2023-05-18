@@ -45,7 +45,7 @@ packet();
 
 ## EXP 4
 ## TINKERCAD PROGRAM 4
-## [The circuit design Link of Tinkercad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png
+## [The circuit design Link of Tinkercad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
 ![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
 
@@ -128,7 +128,7 @@ packet();
 
 void loop()
 {
-  digitalWrite(13, HIGH);https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/robotics.jpeg
+  digitalWrite(13, HIGH);
   delay(300); // Wait for 1000 millisecond(s)
   digitalWrite(13, LOW);
   delay(300); // Wait for 1000 millisecond(s)
@@ -200,6 +200,7 @@ packet();
 3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
 4. To config the drones with software named as mission planner ![image](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png)
 > Analog reader potentiometer
+
  ### RELATED PROGRAM SHOWN IN BELOW
 ## TINKERCAD PROGRAM 1
 ## *EXPERIMENT NAME:INERFACING POTENTIOMETER WITH ARDUINO*
