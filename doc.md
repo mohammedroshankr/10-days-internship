@@ -164,7 +164,7 @@ function packet() {
 packet();
 ```
 ## *EXPERIMENT : 2*
-# **AI & ML** 
+# **AI(ARIFICIAL INTELLIGENCE) & ML(MACHINE LEARNING)** 
 ## > STM 32 NUCLEO DEVELOPMENT BOARD
  
 ![IMAGE](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/robotics.jpeg)
@@ -184,9 +184,9 @@ packet();
 ## > Analog reader potentiometer
 
  ### *RELATED PROGRAM SHOWN IN BELOW*
-## TINKERCAD PROGRAM 1
-## *EXPERIMENT NAME:INERFACING POTENTIOMETER WITH ARDUINO*
-## [The circuit design Link of Tinkercad experiment 1](https://www.tinkercad.com/things/k23EAm8JWQn-interfacing-potentiometer-with-arduino/editel)
+# **TINKERCAD PROGRAM 1**
+## *EXPERIMENT NAME : INERFACING POTENTIOMETER WITH ARDUINO*
+### [The circuit design Link of Tinkercad experiment 1](https://www.tinkercad.com/things/k23EAm8JWQn-interfacing-potentiometer-with-arduino/editel)
 ![exp no 1](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/PotentiometerDay5EXP1.png)
 
 ## COMPONENTS REQUIRED
