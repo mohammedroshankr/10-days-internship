@@ -70,7 +70,7 @@ void setup()
   pinMode(8, OUTPUT);
   pinMode(13, OUTPUT);
 }
-https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-8/DISPLAY%20USING%20POTENTIOMETER.DAY8.pdf.png
+
 void loop()
 {
   // turn the LED on (HIGH is the voltage level)
@@ -163,21 +163,22 @@ function packet() {
 packet();
 ```
 
-**AI & ML** 
-> STM 32 NUCLEO DEVELOPMENT BOARD
+# **AI & ML** 
+## > STM 32 NUCLEO DEVELOPMENT BOARD
  
 ![IMAGE](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/robotics.jpeg)
-1. the board is programmeble
-2. Can program th board by nucleo software
-3. it can build a sound detecting device by using microphone sensor 
+### 1. The board is programmable
+### 2. Can program th board by nucleo software
+### 3. It can build a sound detecting device by using microphone sensor 
 
 # DAY-5
-> Introducing drones by NAVANEETH 3rd year student of robotics
-1. Introducing Drones
-2. explained about drones parts
-3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
-4. To config the drones with software named as mission planner ![image](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png)
-> Analog reader potentiometer
+## > Introduced drones by professor of automation and robotics
+### 1. Introduced Drones
+### 2. Explained about drones parts
+### 3. Also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
+### 4. To configure the drones with software named as mission planner ![image](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png)
+
+## > Analog reader potentiometer
 
  ### RELATED PROGRAM SHOWN IN BELOW
 ## TINKERCAD PROGRAM 1
