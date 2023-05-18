@@ -331,3 +331,107 @@ void loop()
 ![CLICK HERE](https://www.tinkercad.com/things/0d2dpczc7uL-0-to-9-display-using-potentiometer/editel)
  ### *CIRCUIT DIAGRAM*
  ![circuitdiagram](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-8/Circuit%20design%200%20to%209%20DISPLAY%20USING%20POTENTIOMETER%20Tinkercad.png)
+### *COMPONENTS REQUIRED*
+![components required](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-8/0to9usingPOTDAY8.png)
+### *SCHEMATIC DIAGRAM*
+![schematic view](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-8/DISPLAY%20USING%20POTENTIOMETER.DAY8.pdf.png)
+#### CODE FOR THIS PROGRAM :
+```
+const int potPin=A0;
+
+void setup(){
+  Serial.begin(9600);
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+  pinMode(4, OUTPUT);
+  pinMode(5, OUTPUT);
+  pinMode(6, OUTPUT);
+  pinMode(7, OUTPUT);
+  pinMode(8, OUTPUT);
+}
+void loop()
+{ 
+  int potvalue = analogRead(potPin);
+  Serial.println(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,HIGH);
+  delay(potvalue);
+  digitalWrite(2,HIGH);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,HIGH);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,HIGH);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,HIGH);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,HIGH);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,HIGH);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,HIGH);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+} 
+```
