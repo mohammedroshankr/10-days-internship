@@ -45,7 +45,7 @@ packet();
 
 ## EXP 4
 ## TINKERCAD PROGRAM 4
-## [The circuit design Link of Tinkercad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)
+## [The circuit design Link of Tinkercad experiment 4](https://www.tinkercad.com/things/9GODTAIluPw-1-led/editel)https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png
 ![exp no 4](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/roshanexp4.png)
 
 
@@ -194,6 +194,13 @@ packet();
 3. it can build a sound detecting device by using microphone sensor 
 
 # DAY-5
+> Introducing drones by NAVANEETH 3rd year student of robotics
+1. Introducing Drones
+2. explained about drones parts
+3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
+4. To config the drones with software named as mission planner ![image](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/drone.png)
+> Analog reader potentiometer
+ ### RELATED PROGRAM SHOWN IN BELOW
 ## TINKERCAD PROGRAM 1
 ## *EXPERIMENT NAME:INERFACING POTENTIOMETER WITH ARDUINO*
 ## [The circuit design Link of Tinkercad experiment 1](https://www.tinkercad.com/things/k23EAm8JWQn-interfacing-potentiometer-with-arduino/editel)
@@ -343,3 +350,4 @@ packet();
 ![COMPONENTS](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/componentlist0to9.png)
 ## SCHEMATIC VIEW
 ![SCHEMATIC VIEW](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-5/SCHEMATIC.0to9.png)
+
