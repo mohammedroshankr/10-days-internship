@@ -2,7 +2,7 @@
 # DAY 1
 # *ACTIVITY : 1*
 ## PROFILE
-## **MOHAMMED ROSHAN KR**
+## **MOHAMMED ROSHAN KR**https://www.tinkercad.com/things/0d2dpczc7uL-0-to-9-display-using-potentiometer/editel
 ### ROLL NO-33 SEMESTER:4
 #### 'ELECTRONICS AND COMMUNICATION ENGINEERING'
 ```
@@ -344,3 +344,11 @@ packet();
 1. The introduction of yaskawa AR1440 
 ![image](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-4/robotics.jpeg)
 > Then introduced about the EV (electric vehicle)
+
+# DAY-8
+## EXPERIMENT-1
+## TINKERCAD PROGRAM : 1
+### NAME:DISPLAY 0-9 USING 7 SEGMENT AND POTENTIOMETER
+![CLICK HERE](https://www.tinkercad.com/things/0d2dpczc7uL-0-to-9-display-using-potentiometer/editel)
+ ### *CIRCUIT DIAGRAM*
+ ![circuit diagram](https://www.tinkercad.com/things/0d2dpczc7uL-0-to-9-display-using-potentiometer/editel)
