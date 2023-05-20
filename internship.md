@@ -484,11 +484,11 @@ void loop() {
 ### SIGNAL LIGHT USING PUSHBUTTON AND ARDUINO
 #### [CLICK HERE TO VIEW THE TINKERCAD PROGRAM](https://www.tinkercad.com/things/e6GGqRLuchG-signal-light-using-push-button/editel)
 #### CIRCUIT DIAGRAM
-![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-21.png)
+![img](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-9/day9circuit2.png)
 #### SCHEMATIC DIAGRAM 
-![img](https://github.com/ameeshilliasmv/intership/blob/main/img/daty9-22.png)
+![img](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-9/daty9-schem2.png)
 #### COMPONENTS REQUIRED
-![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-23.png)
+![img](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-9/day9comp2.png)
 #### CODE
 ```
 const int buttonPin1 = 2; // the number of the pushbutton pin
