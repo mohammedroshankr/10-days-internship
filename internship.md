@@ -395,7 +395,7 @@ void loop()
   digitalWrite(3,LOW);
   digitalWrite(4,LOW);
   digitalWrite(5,HIGH);
-  digitalWrite(6,HIGH);
+  digitalWrite(6,HIGH);https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-9/day9schem1.png
   digitalWrite(7,LOW);
   digitalWrite(8,LOW);
   delay(potvalue);
@@ -446,11 +446,11 @@ void loop()
 ### BLINKING LED USING PUSHBUTTON AND ARDUINO
 #### [CLICK HERE TO VIEW THE TINKERCAD ](https://www.tinkercad.com/things/jHtxPBPVbwK-blinking-led-using-pushbutton/editel)
 #### CICUIT DIAGRAM
-![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-111.png)
+![img](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-9/day9circuit1.png)
 #### SCHEMATIC DIAGRAM
-![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-12.png)
+![img](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-9/day9schem1.png)
 #### COMPONENTS REQUIRED
-![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-13.png)
+![img](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-9/day9comp1.png)
 #### CODE
 ```
 const int buttonPin = 2;     // the number of the pushbutton pin
