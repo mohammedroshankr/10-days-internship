@@ -10,7 +10,7 @@
 # **COMPONENTS REQUIRED**
 ![components](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-10/assgnt1components.png)
 ### CODE FOR THIS ASSIGNMENT
-```https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-10/assgnt1components.png
+```
 // C++ code
 //
 const int a = 2;
@@ -82,7 +82,7 @@ void display(int digit)
   if(digit!=5 && digit!=6)
     digitalWrite(b, HIGH);
   
-  if(digit!=2)https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-10/assgnt1components.png
+  if(digit!=2)
     digitalWrite(c, HIGH);
   
   if(digit!=1 && digit!=4 && digit!=7)
@@ -109,3 +109,8 @@ void shutdown()
   digitalWrite(g, LOW);  
 }
 ```
+# ASSIGNMENT-2
+## DESIGN A KEY CHAIN
+## click here to open the tinkercad 3D link :point_right:![link](https://www.tinkercad.com/things/d9bFLnLjNAO-copy-of-keychains/edit)
+# 3D VIEW OF THE KEYCHAIN
+![keychain](https://github.com/mohammedroshankr/10-days-internship/blob/main/img/DAY-10/assignt2keychain.png)
