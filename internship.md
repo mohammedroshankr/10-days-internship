@@ -79,7 +79,7 @@ void loop()
   // turn the LED off by making the voltage LOW
   digitalWrite(8, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
-  // turn the LED on (HIGH is the voltage level)
+  // turn the LED on (HIGH is the voltage level)https://github.com/mohammedroshankr/10-days-internship/blob/main/Assignment.md
   digitalWrite(13, HIGH);
   delay(1000); // Wait for 1000 millisecond(s)img
   // turn the LED off by making the voltage LOW
@@ -536,3 +536,6 @@ void loop() {
   }
 }
 ```
+# DAY 10
+## ASSIGNMENT 
+### CLICK HERE TO VIEW THE ASSIGNMENT :point_right:![assignment](https://github.com/mohammedroshankr/10-days-internship/blob/main/Assignment.md)
